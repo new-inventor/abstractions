@@ -1,6 +1,6 @@
 {
   "name": "newInventor/abstractions",
-  "description": "classes for entities that use status field",
+  "description": "Abstractions for projects",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
