@@ -1,8 +1,8 @@
 {
-  "name": "newinventor/abstractions",
+  "name": "newInventor/abstractions",
   "description": "classes for entities that use status field",
   "minimum-stability": "stable",
-  "license": "",
+  "license": "MIT",
   "authors": [
     {
       "name": "Georgy Ionov",
