@@ -5,10 +5,10 @@
  * Time: 16:35
  */
 
-namespace NewInventor\Abstraction;
+namespace NewInventor\Abstractions;
 
-use NewInventor\Abstraction\Interfaces\NamedObjectInterface;
-use NewInventor\Abstraction\Interfaces\ObjectListInterface;
+use NewInventor\Abstractions\Interfaces\NamedObjectInterface;
+use NewInventor\Abstractions\Interfaces\ObjectListInterface;
 use NewInventor\TypeChecker\TypeChecker;
 
 class NamedObjectList extends ObjectList implements \Iterator, ObjectListInterface

@@ -5,7 +5,7 @@
  * Time: 17:35
  */
 
-namespace NewInventor\Abstraction\Interfaces;
+namespace NewInventor\Abstractions\Interfaces;
 
 interface ObjectListInterface extends \Countable, ObjectInterface
 {

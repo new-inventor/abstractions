@@ -5,9 +5,9 @@
  * Time: 18:35
  */
 
-namespace NewInventor\Abstraction;
+namespace NewInventor\Abstractions;
 
-use NewInventor\Abstraction\Interfaces\ObjectInterface;
+use NewInventor\Abstractions\Interfaces\ObjectInterface;
 
 class Object implements ObjectInterface
 {

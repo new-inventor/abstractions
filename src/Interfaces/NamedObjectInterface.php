@@ -5,7 +5,7 @@
  * Time: 8:59
  */
 
-namespace NewInventor\Abstraction\Interfaces;
+namespace NewInventor\Abstractions\Interfaces;
 
 interface NamedObjectInterface extends ObjectInterface
 {

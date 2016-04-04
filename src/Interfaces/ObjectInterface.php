@@ -5,7 +5,7 @@
  * Time: 18:00
  */
 
-namespace NewInventor\Abstraction\Interfaces;
+namespace NewInventor\Abstractions\Interfaces;
 
 interface ObjectInterface
 {

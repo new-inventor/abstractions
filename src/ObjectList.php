@@ -5,10 +5,10 @@
  * Time: 17:46
  */
 
-namespace NewInventor\Abstraction;
+namespace NewInventor\Abstractions;
 
-use NewInventor\Abstraction\Interfaces\ObjectInterface;
-use NewInventor\Abstraction\Interfaces\ObjectListInterface;
+use NewInventor\Abstractions\Interfaces\ObjectInterface;
+use NewInventor\Abstractions\Interfaces\ObjectListInterface;
 use NewInventor\TypeChecker\SimpleTypes;
 use NewInventor\TypeChecker\TypeChecker;
 

@@ -5,12 +5,11 @@
  * Time: 17:51
  */
 
-namespace NewInventor\Abstraction\Abstraction;
+namespace NewInventor\Abstractions;
 
-use NewInventor\Abstraction\Object;
 use NewInventor\TypeChecker\Exception\ArgumentException;
 use NewInventor\TypeChecker\Exception\ArgumentTypeException;
-use NewInventor\Abstraction\Interfaces\NamedObjectInterface;
+use NewInventor\Abstractions\Interfaces\NamedObjectInterface;
 use NewInventor\TypeChecker\TypeChecker;
 
 class NamedObject extends Object implements NamedObjectInterface
