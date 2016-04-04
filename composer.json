@@ -1,7 +1,7 @@
 {
-  "name": "newInventor/abstractions",
+  "name": "new-inventor/abstractions",
   "description": "Abstractions for projects",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
@@ -17,35 +17,8 @@
       "NewInventor\\Abstraction\\": "src/"
     }
   },
-  "repositories": [
-    {
-      "type": "package",
-      "package": {
-        "name": "newInventor/type-checker",
-        "version": "1.0.0",
-        "source": {
-          "url": "https://github.com/newInventor/type-checker",
-          "type": "git",
-          "reference": "master"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "newInventor/singleton",
-        "version": "1.0.0",
-        "source": {
-          "url": "https://github.com/newInventor/singleton",
-          "type": "git",
-          "reference": "master"
-        }
-      }
-    }
-],
   "require": {
-    "newInventor/type-checker": "*",
-    "newInventor/singleton": "*"
+    "new-inventor/type-checker": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "5.1.*"
